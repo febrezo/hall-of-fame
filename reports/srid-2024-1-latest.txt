@@ -1,9 +1,9 @@
 Security Report ID: SRID-2024-1
 ===============================
 
-- Reported by: <REDACTED>
+- Reported by: Parth Narula
 - Report date: 2024-08-07
-- Last modification date: 2024-08-18
+- Last modification date: 2024-11-02
 - Version: 1.0
 - Impact: Negligible (0/3)
 - Probability: Negligible (0/3)
@@ -11,6 +11,7 @@ Security Report ID: SRID-2024-1
 
 Changelog:
 
+- **v1.1** (latest) @ 2024-11-02. Add reporter name.
 - **v1.0** (latest) @ 2024-08-18. First response to the expert.
 
 Report description
