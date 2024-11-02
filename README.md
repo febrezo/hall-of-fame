@@ -8,4 +8,7 @@ Details on the vulnerabilities notified will be shown in the [`reports`](./repor
 
 # Honourable Hall-of-Famers
 
-- Parth Narula (https://scriptjacker.in)
+Reports acknowledged in 2024 are mentioned below in chronological order:
+
+- **Parth Narula** (https://scriptjacker.in).
+- **Shubham Sanjay Deshmukh** (https://www.linkedin.com/in/shubham-deshmukh-8454a7111).
