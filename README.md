@@ -12,3 +12,4 @@ Reports acknowledged in 2024 are mentioned below in chronological order:
 
 - **Parth Narula** (https://scriptjacker.in).
 - **Shubham Sanjay Deshmukh** (https://www.linkedin.com/in/shubham-deshmukh-8454a7111).
+- **AKHIL C.D.** (https://www.linkedin.com/in/akhil-c-d-661abb292/).
